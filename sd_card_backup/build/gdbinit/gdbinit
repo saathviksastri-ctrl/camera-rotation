@@ -1,0 +1,2 @@
+source C:/ESP_IDF/sd_card_backup/build/gdbinit/symbols
+source C:/ESP_IDF/sd_card_backup/build/gdbinit/connect
